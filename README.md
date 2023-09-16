@@ -1,2 +1,2 @@
-# forms
+# Forms
 Formulário utilizando PHPMailer
